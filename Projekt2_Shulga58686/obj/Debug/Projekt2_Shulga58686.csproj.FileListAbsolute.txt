@@ -1,0 +1,15 @@
+F:\Wprowadzenie do programowania\Semestr2\CSharpProjectsUnderDesign\Projekt2_Shulga58686\bin\Debug\Projekt2_Shulga58686.exe.config
+F:\Wprowadzenie do programowania\Semestr2\CSharpProjectsUnderDesign\Projekt2_Shulga58686\bin\Debug\Projekt2_Shulga58686.exe
+F:\Wprowadzenie do programowania\Semestr2\CSharpProjectsUnderDesign\Projekt2_Shulga58686\bin\Debug\Projekt2_Shulga58686.pdb
+F:\Wprowadzenie do programowania\Semestr2\CSharpProjectsUnderDesign\Projekt2_Shulga58686\obj\Debug\Projekt2_Shulga58686.csproj.AssemblyReference.cache
+F:\Wprowadzenie do programowania\Semestr2\CSharpProjectsUnderDesign\Projekt2_Shulga58686\obj\Debug\Projekt2_Shulga58686.osPrezenter_Shulga.resources
+F:\Wprowadzenie do programowania\Semestr2\CSharpProjectsUnderDesign\Projekt2_Shulga58686\obj\Debug\Projekt2_Shulga58686.Properties.Resources.resources
+F:\Wprowadzenie do programowania\Semestr2\CSharpProjectsUnderDesign\Projekt2_Shulga58686\obj\Debug\Projekt2_Shulga58686.csproj.GenerateResource.cache
+F:\Wprowadzenie do programowania\Semestr2\CSharpProjectsUnderDesign\Projekt2_Shulga58686\obj\Debug\Projekt2_Shulga58686.csproj.CoreCompileInputs.cache
+F:\Wprowadzenie do programowania\Semestr2\CSharpProjectsUnderDesign\Projekt2_Shulga58686\obj\Debug\Projekt2_Shulga58686.exe
+F:\Wprowadzenie do programowania\Semestr2\CSharpProjectsUnderDesign\Projekt2_Shulga58686\obj\Debug\Projekt2_Shulga58686.pdb
+F:\Wprowadzenie do programowania\Semestr2\CSharpProjectsUnderDesign\Projekt2_Shulga58686\obj\Debug\Projekt2_Shulga58686.csproj.SuggestedBindingRedirects.cache
+F:\Wprowadzenie do programowania\Semestr2\CSharpProjectsUnderDesign\Projekt2_Shulga58686\obj\Debug\Projekt2_Shulga58686.osPrezentacjaLosowaZeSlajderem.resources
+F:\Wprowadzenie do programowania\Semestr2\CSharpProjectsUnderDesign\Projekt2_Shulga58686\obj\Debug\Projekt2_Shulga58686.osDrawArcFormularz.resources
+F:\Wprowadzenie do programowania\Semestr2\CSharpProjectsUnderDesign\Projekt2_Shulga58686\obj\Debug\Projekt2_Shulga58686.osKreslenieFigur_Linii.resources
+F:\Wprowadzenie do programowania\Semestr2\CSharpProjectsUnderDesign\Projekt2_Shulga58686\obj\Debug\Projekt2_Shulga58686.osWielokatForemnyFormularz.resources
